@@ -16,7 +16,7 @@ api final
 
 4. Выполните миграции командой <python manage.py migrate>
 
-5. <python manage.py runserver> для запуска def-сервера
+5. <python manage.py runserver> для запуска dev-сервера =)
 
 Эндпоинты для взаимодействия с ресурсами:
 1.  Получить список всех постов (GET):
